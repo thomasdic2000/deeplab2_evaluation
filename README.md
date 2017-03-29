@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## DeepLab v2
 
 ### Introduction
@@ -103,3 +104,7 @@ Suppose the codes are located at deeplab/code
 ### Python
 
 Seyed Ali Mousavi has implemented a python version of run_pascal.sh (Thanks, Ali!). If you are more familiar with Python, you may want to take a look at [this](https://github.com/TheLegendAli/CCVL).
+=======
+# deeplab2_evaluate
+deeplab v2 with python evaluation module from Kevin code
+>>>>>>> 4913056fb6b00f034cd5514b48c54fb578383a1d
